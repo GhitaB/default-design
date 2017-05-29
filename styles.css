@@ -1,13 +1,19 @@
+/*
+My colors:
+https://github.com/GhitaB/profile/blob/master/notes.txt
+*/
+
 body {
   background-image: url(https://raw.githubusercontent.com/GhitaB/profile/master/background-texture.png);
   background-attachment: fixed;
+  color: #666666;
 }
 
 .container {
   background: #FFFFFF;
   min-height: 120vh;
   margin-bottom: 20px;
-  padding: 20px;
+  padding: 40px;
 }
 
 h1.page-title {
@@ -15,11 +21,11 @@ h1.page-title {
   font: normal normal 40px Dancing Script;
 }
 
-h2.section-title {
+p, p.page-desctiption, body {
   color: #666666;
 }
 
-p, p.page-desctiption, body {
-  color: #666666;
+a, a:hover {
+  color: #E6461A;
 }
 
