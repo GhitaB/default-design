@@ -6,7 +6,7 @@ https://github.com/GhitaB/profile/blob/master/notes.txt
 */
 
 body {
-  background-image: url(https://raw.githubusercontent.com/GhitaB/profile/master/background-texture.png);
+  background: #ededed;
   background-attachment: fixed;
   color: #666666;
 }
